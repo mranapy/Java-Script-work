@@ -1,2 +1,2 @@
 # Java-Script-work
-# Java-Script-work
+ Call Apply
