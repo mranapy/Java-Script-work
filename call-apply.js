@@ -14,3 +14,4 @@ const normalPerson = {
 normalPerson.chargeBill(550);
 normalPerson.chargeBill(2500);
 console.log(normalPerson.salary);
+console.log(normalPerson.fname);
