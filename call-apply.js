@@ -53,22 +53,3 @@ normalPerson.chargeBill.apply(heroPerson,[2000,1000,500])
 console.log(heroPerson.salary);
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-let v = 1;
