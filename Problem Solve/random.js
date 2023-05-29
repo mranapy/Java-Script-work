@@ -1,12 +1,12 @@
 let num= 2.49999;
 const result = Math.floor(num);
-console.log(result)
+console.log("Floor>> "+result)
 
 const result2 = Math.ceil(num);
-console.log(result2)
+console.log("Ceil>> "+result2)
 
 let result3 = Math.round(num)
-console.log(result3)
+console.log("Round>> "+result3)
 
 // let dice = Math.random();
 for (var i = 0; i < 10; i++) {

@@ -12,7 +12,7 @@ console.log(cityad2)
 
 let cityPropName = "city"
 let cityad3 = student[cityPropName];
-console.log(cityad3)
+console.log('cityPropName==> '+cityad3)
 
 
 

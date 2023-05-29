@@ -1,3 +1,5 @@
+// Feet to Miles
+
 function feetToMile(feet) {
 	const ft = 0.0001894;
 	let mi = ft*feet;
@@ -8,7 +10,7 @@ function feetToMile(feet) {
 		return parseInt(mi);
 	}
 }
-const res = feetToMile(6587);
+const res = feetToMile(65873);
 
 console.log(res+ ' Miles');
 

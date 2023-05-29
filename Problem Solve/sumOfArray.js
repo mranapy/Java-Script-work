@@ -1,3 +1,5 @@
+//  Sum of array
+
 const num = [34,54,23,98,56,59];
 
 function arraySum(numbers) {
